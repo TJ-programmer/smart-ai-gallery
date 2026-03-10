@@ -4,9 +4,7 @@
 <p align="center">
 An AI powered gallery web app to conveniently organize your photos.
 </p>
-<p align="center">
-A React app for my <a href="https://github.com/Antony90/ml-photo-api/">Machine Learning based image REST API</a>.
-</p>
+
 
 ---
 
@@ -72,7 +70,7 @@ A React app for my <a href="https://github.com/Antony90/ml-photo-api/">Machine L
 
 A REST server hosting an image classification endpoint and face simlarity microservice which stores facial data to group images by unique faces.
 
-Source code and installation [here](https://github.com/Antony90/image-scene-classifier/).
+
 
 - MongoDB - face embedding data & metadata
 - dlib - face recognition
