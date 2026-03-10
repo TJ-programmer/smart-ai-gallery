@@ -1,0 +1,200 @@
+[
+  {
+    "id": "e19e1617-def6-446b-aa25-66cd9ab1a6a9",
+    "userID": "local-user",
+    "type": "classify",
+    "title": "Classified 4 photos",
+    "description": "Assigned 24 tags",
+    "responseTime": 568,
+    "date": "2026-03-09T18:24:37.864Z",
+    "meta": {
+      "tagsAssigned": 24,
+      "photos": 4
+    }
+  },
+  {
+    "id": "43e20878-d2cb-4390-a713-ce261757169e",
+    "userID": "local-user",
+    "type": "photo_upload",
+    "title": "Uploaded 4 photos",
+    "description": "download (1).jfif, download.jfif, WhatsApp Image 2025-10-09 at 09.31.11_25e5b34c.jpg, download (1).jpg",
+    "responseTime": 160,
+    "date": "2026-03-09T18:24:37.898Z",
+    "meta": {
+      "photoIDs": [
+        "d51cc9e3-8156-4211-a618-5291ca5e3c64",
+        "9044b808-5d46-4a75-873e-0de00922e6b0",
+        "308537c5-1082-4c4b-96df-deab1e8c9b4f",
+        "d92a13f2-79cd-42e1-90c9-e2601744ce62"
+      ],
+      "tagsAssigned": 24
+    }
+  },
+  {
+    "id": "67af0f07-1011-40ae-ad66-58d8077779e9",
+    "userID": "local-user",
+    "type": "face_process",
+    "title": "Processed faces for user 'local-user'",
+    "description": "Detected 1 face",
+    "responseTime": 548,
+    "date": "2026-03-09T18:24:38.464Z",
+    "meta": {
+      "numFaces": 1
+    }
+  },
+  {
+    "id": "cfc11127-5f84-4a20-b214-b1da5878eb2c",
+    "userID": "local-user",
+    "type": "photo_delete",
+    "title": "Deleted photo 'download (1).jfif'",
+    "description": "d51cc9e3-8156-4211-a618-5291ca5e3c64",
+    "responseTime": 80,
+    "date": "2026-03-09T18:39:39.536Z",
+    "meta": {
+      "photoID": "d51cc9e3-8156-4211-a618-5291ca5e3c64"
+    }
+  },
+  {
+    "id": "d9ca9931-f2bd-4ad1-ba02-80f1ba192135",
+    "userID": "local-user",
+    "type": "photo_delete",
+    "title": "Deleted photo 'download.jfif'",
+    "description": "9044b808-5d46-4a75-873e-0de00922e6b0",
+    "responseTime": 80,
+    "date": "2026-03-09T18:39:39.543Z",
+    "meta": {
+      "photoID": "9044b808-5d46-4a75-873e-0de00922e6b0"
+    }
+  },
+  {
+    "id": "1d8cb8ef-60d2-4faa-abb1-dbe477ba6466",
+    "userID": "local-user",
+    "type": "classify",
+    "title": "Classified 4 photos",
+    "description": "Assigned 24 tags",
+    "responseTime": 509,
+    "date": "2026-03-09T18:39:49.820Z",
+    "meta": {
+      "tagsAssigned": 24,
+      "photos": 4
+    }
+  },
+  {
+    "id": "d8727fa1-11d0-4b05-82a6-0785fd6567dc",
+    "userID": "local-user",
+    "type": "photo_upload",
+    "title": "Uploaded 4 photos",
+    "description": "download (1).jfif, download.jfif, WhatsApp Image 2025-10-09 at 09.31.11_25e5b34c.jpg, download (1).jpg",
+    "responseTime": 160,
+    "date": "2026-03-09T18:39:49.853Z",
+    "meta": {
+      "photoIDs": [
+        "995a19bc-d57c-445e-be3c-f09e0026acf6",
+        "84a07009-0017-4ab6-81c6-0302fd6fc919",
+        "74c7a8ec-08b9-4091-966b-dbd2ee622cbd",
+        "aaaf4093-35ec-4176-8a9c-359ca9d97d71"
+      ],
+      "tagsAssigned": 24
+    }
+  },
+  {
+    "id": "a78a166c-525a-4cdd-b9f7-f95d1876306d",
+    "userID": "local-user",
+    "type": "face_process",
+    "title": "Processed faces for user 'local-user'",
+    "description": "Detected 1 face",
+    "responseTime": 579,
+    "date": "2026-03-09T18:39:50.451Z",
+    "meta": {
+      "numFaces": 1
+    }
+  },
+  {
+    "id": "85a48817-d89f-4f68-9c8f-dec82eef9524",
+    "userID": "local-user",
+    "type": "photo_delete",
+    "title": "Deleted photo 'download (1).jfif'",
+    "description": "d51cc9e3-8156-4211-a618-5291ca5e3c64",
+    "responseTime": 80,
+    "date": "2026-03-09T18:57:06.227Z",
+    "meta": {
+      "photoID": "d51cc9e3-8156-4211-a618-5291ca5e3c64"
+    }
+  },
+  {
+    "id": "d844f32b-4660-418a-83f6-29a5e03169e8",
+    "userID": "local-user",
+    "type": "photo_delete",
+    "title": "Deleted photo 'download (1).jfif'",
+    "description": "995a19bc-d57c-445e-be3c-f09e0026acf6",
+    "responseTime": 80,
+    "date": "2026-03-09T18:57:06.243Z",
+    "meta": {
+      "photoID": "995a19bc-d57c-445e-be3c-f09e0026acf6"
+    }
+  },
+  {
+    "id": "0965c199-028a-41ad-b6aa-eac57b45ed8e",
+    "userID": "local-user",
+    "type": "photo_delete",
+    "title": "Deleted photo 'download.jfif'",
+    "description": "84a07009-0017-4ab6-81c6-0302fd6fc919",
+    "responseTime": 80,
+    "date": "2026-03-09T18:57:06.248Z",
+    "meta": {
+      "photoID": "84a07009-0017-4ab6-81c6-0302fd6fc919"
+    }
+  },
+  {
+    "id": "c33e05e3-f844-456b-a3a8-b3db95e946ef",
+    "userID": "local-user",
+    "type": "photo_delete",
+    "title": "Deleted photo 'download (1).jpg'",
+    "description": "aaaf4093-35ec-4176-8a9c-359ca9d97d71",
+    "responseTime": 80,
+    "date": "2026-03-09T18:57:06.266Z",
+    "meta": {
+      "photoID": "aaaf4093-35ec-4176-8a9c-359ca9d97d71"
+    }
+  },
+  {
+    "id": "91390770-7062-4d32-bc9e-80716958cb23",
+    "userID": "local-user",
+    "type": "classify",
+    "title": "Classified 1 photo",
+    "description": "Assigned 6 tags",
+    "responseTime": 33,
+    "date": "2026-03-09T18:57:12.556Z",
+    "meta": {
+      "tagsAssigned": 6,
+      "photos": 1
+    }
+  },
+  {
+    "id": "c2096e81-2000-4f01-a06f-56c87889f80e",
+    "userID": "local-user",
+    "type": "photo_upload",
+    "title": "Uploaded 1 photo",
+    "description": "download (1).jfif",
+    "responseTime": 130,
+    "date": "2026-03-09T18:57:12.592Z",
+    "meta": {
+      "photoIDs": [
+        "649ea793-9df6-4534-aca7-fe9191aaf66b"
+      ],
+      "tagsAssigned": 6
+    }
+  },
+  {
+    "id": "2cc51615-b14f-4eec-ba4f-00912c7488c3",
+    "userID": "local-user",
+    "type": "photo_delete",
+    "title": "Deleted photo 'WhatsApp Image 2025-10-09 at 09.31.11_25e5b34c.jpg'",
+    "description": "74c7a8ec-08b9-4091-966b-dbd2ee622cbd",
+    "responseTime": 80,
+    "date": "2026-03-10T04:23:47.177Z",
+    "meta": {
+      "photoID": "74c7a8ec-08b9-4091-966b-dbd2ee622cbd"
+    }
+  }
+]

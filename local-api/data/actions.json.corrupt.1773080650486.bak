@@ -1,0 +1,197 @@
+[
+  {
+    "id": "f7319a1e-3182-434b-b6f8-1b057c9e212d",
+    "userID": "local-user",
+    "type": "album_create",
+    "title": "Created album 'new'",
+    "description": "2 photo(s)",
+    "responseTime": 60,
+    "date": "2026-03-09T18:01:20.147Z",
+    "meta": {
+      "albumID": "79c6c6c9-b02b-4084-bd01-71769347614a",
+      "photoCount": 2
+    }
+  },
+  {
+    "id": "5707e360-4343-432d-9c59-04f11de20721",
+    "userID": "local-user",
+    "type": "photo_upload",
+    "title": "Uploaded 3 photos",
+    "description": "WhatsApp Image 2025-10-09 at 09.31.11_25e5b34c.jpg, WhatsApp Image 2025-10-09 at 09.17.58_2559a916.jpg, JAGADESAN PHO-min.jpg",
+    "responseTime": 150,
+    "date": "2026-03-09T18:02:25.206Z",
+    "meta": {
+      "photoIDs": [
+        "896434db-d366-491e-b3dd-6718bd5f1176",
+        "16be76bb-e5e6-479a-9e1c-186518593418",
+        "363b4ed1-8ea9-40f4-bcd7-47217d4b735a"
+      ],
+      "tagsAssigned": 0
+    }
+  },
+  {
+    "id": "37c10730-d177-479d-a374-c48f29fdd53f",
+    "userID": "local-user",
+    "type": "photo_delete",
+    "title": "Deleted photo 'WhatsApp Image 2025-10-09 at 09.17.58_2559a916.jpg'",
+    "description": "16be76bb-e5e6-479a-9e1c-186518593418",
+    "responseTime": 80,
+    "date": "2026-03-09T18:10:25.485Z",
+    "meta": {
+      "photoID": "16be76bb-e5e6-479a-9e1c-186518593418"
+    }
+  },
+  {
+    "id": "34692937-d35f-4678-a7b4-7b1ac31c35d8",
+    "userID": "local-user",
+    "type": "photo_upload",
+    "title": "Uploaded 3 photos",
+    "description": "WhatsApp Image 2025-10-09 at 09.31.11_25e5b34c.jpg, WhatsApp Image 2025-10-09 at 09.17.58_2559a916.jpg, JAGADESAN PHO-min.jpg",
+    "responseTime": 150,
+    "date": "2026-03-09T18:10:37.976Z",
+    "meta": {
+      "photoIDs": [
+        "d529635f-2392-43ae-8437-12b20106633c",
+        "931ca801-74e8-49ee-8778-1d780d0e4b15",
+        "0fc69c8a-452d-4811-8d27-1fecd4ba43a9"
+      ],
+      "tagsAssigned": 0
+    }
+  },
+  {
+    "id": "8a0c9e93-3be9-457d-b2b7-318bae66b4fc",
+    "userID": "local-user",
+    "type": "photo_upload",
+    "title": "Uploaded 1 photo",
+    "description": "download (1).jfif",
+    "responseTime": 130,
+    "date": "2026-03-09T18:10:57.491Z",
+    "meta": {
+      "photoIDs": [
+        "eaa93e7d-144a-44fa-b69e-d883cf13c996"
+      ],
+      "tagsAssigned": 0
+    }
+  },
+  {
+    "id": "acca2bd9-daca-456c-ae9f-3773658ad827",
+    "userID": "local-user",
+    "type": "photo_delete",
+    "title": "Deleted photo 'WhatsApp Image 2025-10-09 at 09.31.11_25e5b34c.jpg'",
+    "description": "896434db-d366-491e-b3dd-6718bd5f1176",
+    "responseTime": 80,
+    "date": "2026-03-09T18:17:06.170Z",
+    "meta": {
+      "photoID": "896434db-d366-491e-b3dd-6718bd5f1176"
+    }
+  },
+  {
+    "id": "9793050c-e878-4671-88cf-7074b23a4736",
+    "userID": "local-user",
+    "type": "photo_delete",
+    "title": "Deleted photo 'download (1).jfif'",
+    "description": "eaa93e7d-144a-44fa-b69e-d883cf13c996",
+    "responseTime": 80,
+    "date": "2026-03-09T18:17:06.183Z",
+    "meta": {
+      "photoID": "eaa93e7d-144a-44fa-b69e-d883cf13c996"
+    }
+  },
+  {
+    "id": "7745d1ab-4e12-4c2a-85d9-a0c448b62f9b",
+    "userID": "local-user",
+    "type": "classify",
+    "title": "Classified 4 photos",
+    "description": "Assigned 24 tags",
+    "responseTime": 3266,
+    "date": "2026-03-09T18:17:52.444Z",
+    "meta": {
+      "tagsAssigned": 24,
+      "photos": 4
+    }
+  },
+  {
+    "id": "9535a968-12fc-44ae-9f81-427792873371",
+    "userID": "local-user",
+    "type": "photo_upload",
+    "title": "Uploaded 4 photos",
+    "description": "WhatsApp Image 2025-10-09 at 09.31.11_25e5b34c.jpg, WhatsApp Image 2025-10-09 at 09.17.58_2559a916.jpg, 4e2c97416381ce6ffdb0db6c82ab09b81f859758_2_480x748.jpeg, JAGADESAN PHO-min.jpg",
+    "responseTime": 160,
+    "date": "2026-03-09T18:17:52.518Z",
+    "meta": {
+      "photoIDs": [
+        "a467d51f-ade8-43f7-9724-92ccebf5d9e4",
+        "7b742e26-ba02-4bfe-a640-5e13ba963fcb",
+        "965de281-6210-42ac-9300-9989185d8d2d",
+        "626f341b-1e71-4884-a04c-21ddc28d4128"
+      ],
+      "tagsAssigned": 24
+    }
+  },
+  {
+    "id": "0283c1fa-f6cf-4dbf-ba07-eba243480ebe",
+    "userID": "local-user",
+    "type": "face_process",
+    "title": "Processed faces for user 'local-user'",
+    "description": "Detected 3 faces",
+    "responseTime": 1807,
+    "date": "2026-03-09T18:17:54.346Z",
+    "meta": {
+      "numFaces": 3
+    }
+  },
+  {
+    "id": "3e68b78c-87bb-4141-ae4a-101239639604",
+    "userID": "local-user",
+    "type": "classify",
+    "title": "Classified 1 photo",
+    "description": "Assigned 6 tags",
+    "responseTime": 595,
+    "date": "2026-03-09T18:18:32.901Z",
+    "meta": {
+      "tagsAssigned": 6,
+      "photos": 1
+    }
+  },
+  {
+    "id": "df48b108-ea11-4d4d-9cfc-4e2655272758",
+    "userID": "local-user",
+    "type": "photo_upload",
+    "title": "Uploaded 1 photo",
+    "description": "Nirmala ph (1)-min.jpg",
+    "responseTime": 130,
+    "date": "2026-03-09T18:18:32.922Z",
+    "meta": {
+      "photoIDs": [
+        "90457e96-5fe2-46a6-90f1-434356712195"
+      ],
+      "tagsAssigned": 6
+    }
+  },
+  {
+    "id": "99e893f1-e8b8-45e8-bce9-1f8acf7a3484",
+    "userID": "local-user",
+    "type": "face_process",
+    "title": "Processed faces for user 'local-user'",
+    "description": "Detected 2 faces",
+    "responseTime": 550,
+    "date": "2026-03-09T18:18:33.488Z",
+    "meta": {
+      "numFaces": 2
+    }
+  },
+  {
+    "id": "e031c4df-c1c5-4e36-aa0c-eaa24fbeb5f3",
+    "userID": "local-user",
+    "type": "photo_delete",
+    "title": "Deleted photo 'download.jfif'",
+    "description": "b8f24ff5-6741-46ae-bdb5-8f8585f14fc6",
+    "responseTime": 80,
+    "date": "2026-03-09T18:21:44.213Z",
+    "meta": {
+      "photoID": "b8f24ff5-6741-46ae-bdb5-8f8585f14fc6"
+    }
+  }
+] }
+  }
+]

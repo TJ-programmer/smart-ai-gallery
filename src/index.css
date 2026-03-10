@@ -1,0 +1,178 @@
+:root {
+  --bg: #0b0b0c;
+  --bg-elev: #121214;
+  --fg: #f7f7f7;
+  --fg-dim: #c8c8c8;
+  --border: rgba(255, 255, 255, 0.08);
+  --glass: rgba(255, 255, 255, 0.08);
+  --glass-strong: rgba(255, 255, 255, 0.12);
+  --shadow: 0 8px 30px rgba(0, 0, 0, 0.35);
+  --radius-lg: 18px;
+  --radius-md: 14px;
+  --radius-sm: 10px;
+  --blur: 16px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  background: radial-gradient(1200px 800px at 20% 0%, #151516 0%, #0b0b0c 55%, #070708 100%);
+  color: var(--fg);
+  font-family: "Manrope", "Inter", "Segoe UI", system-ui, -apple-system, sans-serif;
+  letter-spacing: 0.1px;
+}
+
+a {
+  color: var(--fg);
+}
+
+.app-layout {
+  background: transparent;
+}
+
+.app-sider {
+  background: rgba(10, 10, 12, 0.9) !important;
+  border-right: 1px solid var(--border);
+  backdrop-filter: blur(var(--blur));
+}
+
+.app-header {
+  background: rgba(14, 14, 16, 0.7) !important;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  margin: 16px 20px 0;
+  box-shadow: var(--shadow);
+  backdrop-filter: blur(var(--blur));
+}
+
+.app-content {
+  margin: 18px 20px 24px !important;
+  padding: 12px;
+  border-radius: var(--radius-lg);
+}
+
+.app-footer {
+  color: var(--fg-dim);
+  background: transparent;
+}
+
+.logo {
+  border: 1px solid var(--border);
+  background: var(--glass);
+  backdrop-filter: blur(var(--blur));
+  border-radius: var(--radius-md);
+}
+
+.logo-title {
+  color: var(--fg) !important;
+}
+
+.ant-menu {
+  background: transparent !important;
+  color: var(--fg-dim);
+  border-inline-end: none !important;
+}
+
+.ant-menu-item-selected,
+.ant-menu-submenu-selected > .ant-menu-submenu-title {
+  background: var(--glass-strong) !important;
+  color: var(--fg) !important;
+  border-radius: var(--radius-sm);
+}
+
+.ant-menu-item:hover,
+.ant-menu-submenu-title:hover {
+  background: var(--glass) !important;
+  color: var(--fg) !important;
+  border-radius: var(--radius-sm);
+}
+
+.ant-card {
+  background: var(--glass) !important;
+  border: 1px solid var(--border) !important;
+  border-radius: var(--radius-lg) !important;
+  box-shadow: var(--shadow);
+  backdrop-filter: blur(var(--blur));
+  transition: transform 160ms ease, box-shadow 160ms ease, background 160ms ease;
+}
+
+.ant-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 34px rgba(0, 0, 0, 0.45);
+  background: var(--glass-strong) !important;
+}
+
+.ant-btn {
+  border-radius: var(--radius-sm) !important;
+  border: 1px solid var(--border) !important;
+  background: rgba(255, 255, 255, 0.06) !important;
+  color: var(--fg) !important;
+  transition: transform 120ms ease, background 160ms ease, border 160ms ease;
+}
+
+.ant-btn:hover {
+  background: rgba(255, 255, 255, 0.12) !important;
+  transform: translateY(-1px);
+}
+
+.ant-input,
+.ant-input-affix-wrapper,
+.ant-select-selector {
+  background: rgba(255, 255, 255, 0.06) !important;
+  border: 1px solid var(--border) !important;
+  border-radius: var(--radius-sm) !important;
+  color: var(--fg) !important;
+  box-shadow: none !important;
+}
+
+.ant-input::placeholder {
+  color: var(--fg-dim) !important;
+}
+
+.ant-tag {
+  border-radius: 999px !important;
+  border: 1px solid var(--border) !important;
+  background: rgba(255, 255, 255, 0.08) !important;
+  color: var(--fg) !important;
+}
+
+.ant-modal-content {
+  background: var(--glass) !important;
+  border: 1px solid var(--border) !important;
+  border-radius: var(--radius-lg) !important;
+  backdrop-filter: blur(var(--blur));
+}
+
+.ant-image-img {
+  border-radius: var(--radius-sm);
+}
+
+.ant-breadcrumb {
+  color: var(--fg-dim);
+}
+
+.ant-typography {
+  color: var(--fg);
+}
+
+.ant-typography-secondary {
+  color: var(--fg-dim) !important;
+}
+
+@media (max-width: 900px) {
+  .app-header {
+    margin: 12px;
+  }
+  .app-content {
+    margin: 12px;
+  }
+}
